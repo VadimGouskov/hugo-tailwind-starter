@@ -1,5 +1,8 @@
 # Hugo Basic Starter for TailwindCSS v3.x
 
+This repository is a fork of https://github.com/bep/hugo-starter-tailwind-basic.
+The rest of this README instructions come directly from the original author
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a510ba1-96b4-4834-9a07-913dce4b5061/deploy-status)](https://app.netlify.com/sites/lucid-nightingale-60a4e2/deploys)
 
 A very simple starter set up with [TailwindCSS](https://tailwindcss.com/) and its [typography plugin](https://tailwindcss.com/docs/typography-plugin) and a build setup using [PostCSS](https://postcss.org/) and PurgeCSS (when running the production build).
